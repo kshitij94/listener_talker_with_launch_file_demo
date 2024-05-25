@@ -1,0 +1,6 @@
+Beginner tutorials:
+
+1. Created two scripts listerner and talker under scripts.
+2. Both can be run using "rosrun beginner_tutorials listener.py" and "rosrun beginner_tutorials talker.py".
+3. You can see the logs on the screen.
+4. The other way to launch this is using "roslaunch beginner_tutorials l.launch". First cd catkin_ws.
